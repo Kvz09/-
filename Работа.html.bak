@@ -3,7 +3,7 @@
 		<head>
 			<meta charset="utf-8">
 			
-			<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--защищает от прихолов гугл хрома-->
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 			
 					<title>Cайт</title>
 					<link rel="stylesheet" href="style.css">
@@ -18,15 +18,15 @@
                     <a href="#"><img src="./svg/contact.svg" alt="contact"></a>
                 </nav>
 
-                <div class="header_block">
-                    <div class="header_block_">
-                        <p class="header_block_a">New Automation <br>Tool for Your </p>
-                         <p class="header_block_b">Lorem ipsum dolor sit amet, consectetur
+                <div class="_block">
+                    <div class="_block_">
+                        <p class="_block_a">New Automation <br>Tool for Your </p>
+                         <p class="_block_b">Lorem ipsum dolor sit amet, consectetur
 						 adipiscing <br>elit. Faucibus tristique vulputate ultrices ut mauris
 						 <br>tellus at. Posuere sollicitudin odio tellus elit.</p>
-                        <a class="header_block_link" href="#">See Our Project</a>
+                        <a class="_block_link" href="#">See Our Project</a>
                      </div>
-                     <img class="header_block_img" src="./svg/illustration.svg" alt="picture">
+                     <img class="_block_img" src="./svg/illustration.svg" alt="picture">
                 </div>
             </div>
         </header>
